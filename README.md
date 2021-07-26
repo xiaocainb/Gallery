@@ -1,6 +1,7 @@
 # Gallery
-简易图片画廊 使用到的依赖：
+图片画廊 使用到的Pagging,DataSource,DataSourceFactory,Footer,VollySingleton
 
+依赖：
 implementation 'com.android.volley:volley:1.1.1'
 
 implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.0.0'
